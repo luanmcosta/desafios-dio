@@ -1,8 +1,8 @@
-#Desafios do Curso de Introdução a JavaScript da DIO
+# Desafios do Curso de Introdução a JavaScript da DIO
 
 ## Desafios:
 - To-do List :ok:
-- react-native-github: :ok:
-- verify-palindrome :ok:
+- Github Short Profile :ok:
+- Palindrome Verifyer :ok:
 - Instagram Clone: :ok:
-- 
+  
