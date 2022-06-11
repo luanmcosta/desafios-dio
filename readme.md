@@ -2,3 +2,7 @@
 
 ## Desafios:
 - To-do List :ok:
+- react-native-github: :ok:
+- verify-palindrome :ok:
+- Instagram Clone: :ok:
+- 

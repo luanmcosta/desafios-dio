@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 1;
+}
+
+.col{
+    width: 50%;
+}
+
+.box{
+    border: 1px solid #eee;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box img{
+    padding: 10px 0 20px 0;
+}
+
+input {
+    margin: 3px;
+    height: 30px;
+    width: 90%;
+    color: #aaa;
+    border: 1px solid #aaa;
+    padding: 5px;
+}
+
+.button {
+    margin-top: 5px;
+    background-color: rgb(3, 118, 248);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 0px;
+    width: 93%;
+}
+
+.phone-img{
+    display: flex;
+    justify-content: center;
+}
+.phone-img img{
+    background-image: url('./../img/bg-phone.jpg');
+    background-size: cover;
+    padding: 15px 15px;
+}
+
+footer{
+    color: grey
+}
+
+.divider{
+    color: #aaa;
+    margin: 20px 0px;
+}
+
+.facebook{
+    color: #777;
+}
+.facebook span{
+    margin-top: 10px;
+    display: block; 
+    color: #aaa;
+    font-size: .7em;
+}
